@@ -1,10 +1,10 @@
-# Agentforce World Tour Tokyo 2026 Winter - Workshop Contents
+# Salesforce World Tour Tokyo 2026 Winter - Workshop Contents
 
 当該リポジトリは下記イベントにおけるワークショップで利用する資材を格納したリポジトリである。
 
 ## イベント概要
 
-- イベント : [Agentforce World Tour Tokyo - AIの確率論を決定論的実行力でビジネス成果に変える企業へ](https://www.salesforce.com/jp/events/world-tour/tokyo/)
+- イベント : [Salesforce World Tour Tokyo - AIを実証からビジネス成果へ](https://www.salesforce.com/jp/events/world-tour/tokyo/)
 - 日時 : 2026-11-18 ~ 2026-11-19
 - 会場 : ザ・プリンス パークタワー東京 | Salesforce+
 
