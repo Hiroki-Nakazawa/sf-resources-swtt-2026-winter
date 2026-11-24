@@ -35,11 +35,13 @@ Agentforce Vibesに指示書（プロンプト）を渡し、TaskをStatus×Prio
 3. "**Yes, Create Playground**"を押下する
 4. 少し時間が経つと"**Agentforce Vibes IDE**"のPlaygroundが作成される
 5. "**Launch**"を押下し、"**Agentforce Vibes IDE**"のPlaygroundを起動する
-6. "**Setup Menu**"から"**Agentforce Vibes**"を起動する
-7. "Agentforce Vibes Terms & Conditions"において"**Accept**"を押下する
-8. （環境が準備されるまで待機）
-9. ファイルの作成者の信頼関係の確認において"**Yes, I trust the authors**"を押下する
-10. EXPLORERのルートディレクトリに`prompts`という名称のディレクトリを作成する
+6. "**Setup Menu**"から"**Setup**"を起動する
+7. "**Einstein Setup**"で"**Turn on Einstein**"を有効化する
+8. "**Setup Menu**"から"**Agentforce Vibes**"を起動する
+9. "Agentforce Vibes Terms & Conditions"において"**Accept**"を押下する
+10. （環境が準備されるまで待機）
+11. ファイルの作成者の信頼関係の確認において"**Yes, I trust the authors**"を押下する
+12. EXPLORERのルートディレクトリに`prompts`という名称のディレクトリを作成する
 
 ### Phase-1 : モックデータでKanban画面を作成する
 
